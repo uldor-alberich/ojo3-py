@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ojo3py"
 version = "0.1.0"
-authors = [{name="dotgitattributes"}]
+authors = [{name="UldorAlberich13"}]
 description = "A parser combinator library for python3."
 keywords = ["parser", "library", "combinator"]
 license = "MIT"
